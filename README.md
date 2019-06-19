@@ -4,3 +4,4 @@ Documentation [here](https://github.com/n3m351d4/Radio_Touch_TFT_Clock/blob/mast
 ![Структурная схема](https://pp.userapi.com/c848736/v848736297/1c2950/CO4_dJvRcXY.jpg)
 ![Алгоритм](https://pp.userapi.com/c848736/v848736297/1c2959/YHnNG_kGTiY.jpg)
 ![Макет](https://pp.userapi.com/c848736/v848736297/1c299a/a3mR9m3dps0.jpg)
+![Оригинальность](https://pp.userapi.com/c850132/v850132805/175304/IjiR8VQTCuI.jpg)
