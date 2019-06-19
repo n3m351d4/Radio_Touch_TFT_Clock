@@ -1,5 +1,5 @@
 # Radio_Touch_TFT_Clock
-Полное описание 123.pdf
+see documentation [here](Radio_Touch_TFT_Clock/blob/master/123.pdf)
 ![Принципиальная схема](https://pp.userapi.com/c848736/v848736297/1c2947/IHWIIIvTtFA.jpg)
 ![Структурная схема](https://pp.userapi.com/c848736/v848736297/1c2950/CO4_dJvRcXY.jpg)
 ![Алгоритм](https://pp.userapi.com/c848736/v848736297/1c2959/YHnNG_kGTiY.jpg)
